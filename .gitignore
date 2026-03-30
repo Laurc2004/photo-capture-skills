@@ -1,0 +1,20 @@
+# Dependencies
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Output
+*.jpg
+*.png
+tmp/
+
+# ClawHub cache
+.clawhub/
+_meta.json
